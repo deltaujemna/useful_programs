@@ -51,7 +51,7 @@ To jest przykładowy ~~tekst przekreślony~~.
 
 ## Google Colab - link
 
- [Google Colab](http://colab.research.google.com).
+ [Google Colab](http://colab.research.google.com)
 
 ## Przykładowy kod Pythona
 
