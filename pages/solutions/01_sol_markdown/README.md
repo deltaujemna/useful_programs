@@ -10,7 +10,7 @@ README zawiera przykłady różnych sposobów formatowania tekstu.
 Markdown pozwala w prosty sposób tworzyć czytelną dokumentację projektu.
 W tym przykładzie wykorzystuję również język Python i kilka podstawowych konstrukcji tego języka.
 
-### Formatowanie tekstu
+### Formatowanie tekstu - przykłady
 
 To jest przykładowy **tekst pogrubiony**.
 
@@ -62,7 +62,7 @@ for i in range(3):
     print(f"Uczę się {name}!")
 ```
 
-## Wzory matematyczne
+## Wzory matematyczne - basicowo
 
 Przykładowe wzory zapisane bezpośrednio w tekście:
 
