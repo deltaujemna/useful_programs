@@ -49,9 +49,9 @@ To jest przykładowy ~~tekst przekreślony~~.
 | Python | Programowanie | Podstawowy |
 | Google Colab | Notebook | Podstawowy |
 
-## Przydatny link
+## Google Colab - link
 
-Projekt można uruchomić również w serwisie [Google Colab](http://colab.research.google.com).
+ [Google Colab](http://colab.research.google.com).
 
 ## Przykładowy kod Pythona
 
@@ -94,6 +94,4 @@ $$
 
 ## Wykres
 
-Poniżej znajduje się wykres zapisany w folderze projektu:
-
-wykres.png
+![Wykres](wykres.png)
