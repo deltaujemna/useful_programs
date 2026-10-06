@@ -1,6 +1,7 @@
 # Transkrypcja
 
 Obrazek `zrzut.png` zatopiony w dokumencie.
+![Zrzut](zrzut.png)
 
 ## Prompt użyty do wygenerowania tekstu przez AI
 
