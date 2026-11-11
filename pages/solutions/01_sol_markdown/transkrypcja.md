@@ -5,8 +5,9 @@ Obrazek `zrzut.png` zatopiony w dokumencie.
 
 ## Prompt użyty do wygenerowania tekstu przez AI
 
-Na podstawie zrzutu ekranu tej notatki, przepisz informację (w formie transkrypcji) widocznej na zrzucie do kodu Markdown. Wynik zapisz jako transkrypcja.md.
+```Na podstawie zrzutu ekranu tej notatki, przepisz informację (w formie transkrypcji) widocznej na zrzucie do kodu Markdown. Wynik zapisz jako transkrypcja.md.```
 Poniżej przedstawiono rezultat, który został wygenerowany przez sztuczną inteligencję:
+
 ```
 # 11. CO TO SĄ KROPKI KWANTOWE I JAKIE MAJĄ WŁASNOŚCI?
 
