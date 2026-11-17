@@ -33,7 +33,7 @@ Celem raportu jest pełne wyprowadzenie równań opisujących położenie, pręd
 - Pomijamy siłę Coriolisa oraz zmianę gęstości powietrza z wysokością.
 - W modelu tłumionym siła oporu powietrza jest wprost proporcjonalna do prędkości: $\vec{F}_{\mathrm{op}} = -b\vec{v}$.
 
-![Schemat rzutu ukośnego](files/rzut_ukosny/schemat.png)
+![Schemat rzutu ukośnego](./files/rzut_ukosny/schemat.png)
 
 *Rysunek 1. Schemat układu współrzędnych, kąta wyrzutu $\alpha$ oraz wektora prędkości początkowej $\vec{v}_0$.*
 
@@ -91,7 +91,7 @@ $$
 y(x)=x\tan\alpha-\frac{g}{2v_0^2\cos^2\alpha}x^2.
 $$
 
-![Trajektoria rzutu ukośnego](files/rzut_ukosny/trajektoria_bez_oporu.png)
+![Trajektoria rzutu ukośnego](./files/rzut_ukosny/trajektoria_bez_oporu.png)
 
 *Rysunek 2. Paraboliska trajektoria rzutu ukośnego w warunkach idealnych (bez oporu powietrza).*
 
@@ -127,7 +127,7 @@ Dla przyjętych danych liczbowych ($v_0 = 12\,\mathrm{m/s}$, $\alpha = 45^\circ$
 | Maksymalna wysokość | $h_{\max}$ | $3{,}670\,\mathrm{m}$ |
 | Zasięg rzutu | $Z$ | $14{,}679\,\mathrm{m}$ |
 
-![Składowe prędkości](files/rzut_ukosny/predkosci_czas.png)
+![Składowe prędkości](./files/rzut_ukosny/predkosci_czas.png)
 
 *Rysunek 3. Zmiana składowych prędkości $v_x, v_y$ oraz całkowitej szybkości $v(t)$ w czasie.*
 
@@ -139,7 +139,7 @@ $$
 E_k(t) = \frac{1}{2}m (v_x^2 + v_y^2), \qquad E_p(t) = mgy(t), \qquad E_c = E_k + E_p = \frac{1}{2}m v_0^2 = \mathrm{const}.
 $$
 
-![Zasada zachowania energii](files/rzut_ukosny/energia.png)
+![Zasada zachowania energii](./files/rzut_ukosny/energia.png)
 
 *Rysunek 4. Wzajemna konwersja energii kinetycznej i potencjalnej w trakcie rzutu bez oporów.*
 
@@ -185,7 +185,7 @@ $$
 
 Wprowadzenie oporu powietrza zmienia trajektorię ze symetrycznej paraboli na krzywą asymetryczną, opadającą bardziej stromo w końcowej fazie ruchu.
 
-![Porównanie trajektorii](files/rzut_ukosny/porownanie_trajektorii.png)
+![Porównanie trajektorii](./files/rzut_ukosny/porownanie_trajektorii.png)
 
 *Rysunek 5. Porównanie trajektorii rzutu w próżni oraz z oporem powietrza ($b=0{,}15\,\mathrm{N s/m}$).*
 
@@ -201,7 +201,7 @@ $$
 
 Ponadto, kąt zapewniający optymalny zasięg w próżni wynosi dokładnie $\alpha = 45^\circ$, podczas gdy obecność oporu przesuwa optymalny kąt wyrzutu ku niższym wartościom.
 
-![Wpływ kąta wyrzutu](files/rzut_ukosny/wplyw_kata.png)
+![Wpływ kąta wyrzutu](./files/rzut_ukosny/wplyw_kata.png)
 
 *Rysunek 7. Trajektorie rzutu dla różnych kątów wyrzutu $\alpha$.*
 
