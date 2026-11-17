@@ -91,7 +91,7 @@ $$
 y(x)=x\tan\alpha-\frac{g}{2v_0^2\cos^2\alpha}x^2.
 $$
 
-![Trajektoria rzutu ukośnego](pages/solutions/04_sol_vscode/files/rzut_ukosny/trajektoria_bez_oporu.png)
+![Trajektoria rzutu ukośnego](files/rzut_ukosny/trajektoria_bez_oporu.png)
 
 *Rysunek 2. Paraboliska trajektoria rzutu ukośnego w warunkach idealnych (bez oporu powietrza).*
 
@@ -139,7 +139,7 @@ $$
 E_k(t) = \frac{1}{2}m (v_x^2 + v_y^2), \qquad E_p(t) = mgy(t), \qquad E_c = E_k + E_p = \frac{1}{2}m v_0^2 = \mathrm{const}.
 $$
 
-![Zasada zachowania energii](pages/solutions/04_sol_vscode/files/rzut_ukosny/energia.png)
+![Zasada zachowania energii](files/rzut_ukosny/energia.png)
 
 *Rysunek 4. Wzajemna konwersja energii kinetycznej i potencjalnej w trakcie rzutu bez oporów.*
 
@@ -185,7 +185,7 @@ $$
 
 Wprowadzenie oporu powietrza zmienia trajektorię ze symetrycznej paraboli na krzywą asymetryczną, opadającą bardziej stromo w końcowej fazie ruchu.
 
-![Porównanie trajektorii](pages/solutions/04_sol_vscode/files/rzut_ukosny/porownanie_trajektorii.png)
+![Porównanie trajektorii](files/rzut_ukosny/porownanie_trajektorii.png)
 
 *Rysunek 5. Porównanie trajektorii rzutu w próżni oraz z oporem powietrza ($b=0{,}15\,\mathrm{N s/m}$).*
 
@@ -195,13 +195,13 @@ $$
 \frac{dE_c}{dt} = \vec{F}_{\mathrm{op}} \cdot \vec{v} = -b v^2 \le 0.
 $$
 
-![Strata energii](pages/solutions/04_sol_vscode/files/rzut_ukosny/strata_energii.png)
+![Strata energii](files/rzut_ukosny/strata_energii.png)
 
 *Rysunek 6. Spadek energii całkowitej układu w czasie na skutek obecności oporu lepkiego.*
 
 Ponadto, kąt zapewniający optymalny zasięg w próżni wynosi dokładnie $\alpha = 45^\circ$, podczas gdy obecność oporu przesuwa optymalny kąt wyrzutu ku niższym wartościom.
 
-![Wpływ kąta wyrzutu](pages/solutions/04_sol_vscode/files/rzut_ukosny/wplyw_kata.png)
+![Wpływ kąta wyrzutu](files/rzut_ukosny/wplyw_kata.png)
 
 *Rysunek 7. Trajektorie rzutu dla różnych kątów wyrzutu $\alpha$.*
 
