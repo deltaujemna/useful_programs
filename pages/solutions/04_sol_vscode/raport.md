@@ -127,7 +127,7 @@ Dla przyjętych danych liczbowych ($v_0 = 12\,\mathrm{m/s}$, $\alpha = 45^\circ$
 | Maksymalna wysokość | $h_{\max}$ | $3{,}670\,\mathrm{m}$ |
 | Zasięg rzutu | $Z$ | $14{,}679\,\mathrm{m}$ |
 
-![Składowe prędkości](pages/solutions/04_sol_vscode/files/rzut_ukosny/predkosc_czas.png)
+![Składowe prędkości](/files/rzut_ukosny/predkosc_czas.png)
 
 *Rysunek 3. Zmiana składowych prędkości $v_x, v_y$ oraz całkowitej szybkości $v(t)$ w czasie.*
 
