@@ -33,7 +33,7 @@ Celem raportu jest pełne wyprowadzenie równań opisujących położenie, pręd
 - Pomijamy siłę Coriolisa oraz zmianę gęstości powietrza z wysokością.
 - W modelu tłumionym siła oporu powietrza jest wprost proporcjonalna do prędkości: $\vec{F}_{\mathrm{op}} = -b\vec{v}$.
 
-![Schemat rzutu ukośnego](pages/solutions/04_sol_vscode/files/rzut_ukosny/schemat.png)
+![Schemat rzutu ukośnego](schemat.png)
 
 *Rysunek 1. Schemat układu współrzędnych, kąta wyrzutu $\alpha$ oraz wektora prędkości początkowej $\vec{v}_0$.*
 
