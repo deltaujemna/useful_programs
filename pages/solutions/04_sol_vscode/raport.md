@@ -185,7 +185,7 @@ $$
 
 Wprowadzenie oporu powietrza zmienia trajektorię ze symetrycznej paraboli na krzywą asymetryczną, opadającą bardziej stromo w końcowej fazie ruchu.
 
-![Porównanie trajektorii](files/rzut_ukosny/trajektoria_porownanie.png)
+![Porównanie trajektorii](/files/rzut_ukosny/trajektoria_porownanie.png)
 
 *Rysunek 5. Porównanie trajektorii rzutu w próżni oraz z oporem powietrza ($b=0{,}15\,\mathrm{N s/m}$).*
 
