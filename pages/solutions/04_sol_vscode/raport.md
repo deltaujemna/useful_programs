@@ -88,7 +88,7 @@ $$
 Wyznaczając czas $t = \frac{x}{v_0 \cos\alpha}$ z równania na $x(t)$ i podstawiając do $y(t)$, uzyskujemy równanie paraboli:
 
 $$
-y(x) = x \operatorname{tg}\alpha - \frac{g}{2 v_0^2 \cos^2\alpha} x^2.
+y(x)=x\tan\alpha-\frac{g}{2v_0^2\cos^2\alpha}x^2.
 $$
 
 ![Trajektoria rzutu ukośnego](files/rzut_ukosny/trajektoria_bez_oporu.png)
