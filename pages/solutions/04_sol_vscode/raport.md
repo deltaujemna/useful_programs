@@ -43,8 +43,8 @@ Zgodnie z wytycznymi, prędkość początkowa $v_0$ oraz kąt $\alpha$ wynikają
 
 | Parameter | Symbol | Wartość | Jednostka SI |
 | :--- | :---: | ---: | :---: |
-| Prędkość początkowa | $v_0$ | $12{,}0$ | $\mathrm{m/s}$ |
-| Kąt wyrzutu | $\alpha$ | $45{,}0^\circ$ | $\mathrm{rad}$ ($0{,}7854\,\mathrm{rad}$) |
+| Prędkość początkowa | $v_0$ | $33{,}0$ | $\mathrm{m/s}$ |
+| Kąt wyrzutu | $\alpha$ | $24{,}0^\circ$ | $\mathrm{rad}$ ($0{,}7854\,\mathrm{rad}$) |
 | Przyspieszenie ziemskie | $g$ | $9{,}81$ | $\mathrm{m/s^2}$ |
 | Masa ciała | $m$ | $1{,}0$ | $\mathrm{kg}$ |
 | Współczynnik oporu lepkiego | $b$ | $0{,}15$ | $\mathrm{N\,s/m}$ |
@@ -91,7 +91,7 @@ $$
 y(x)=x\tan\alpha-\frac{g}{2v_0^2\cos^2\alpha}x^2.
 $$
 
-![Trajektoria rzutu ukośnego](files/rzut_ukosny/x.png)
+![Trajektoria rzutu ukośnego](files/rzut_ukosny/trajektoria_idealna.png)
 
 *Rysunek 2. Paraboliska trajektoria rzutu ukośnego w warunkach idealnych (bez oporu powietrza).*
 
