@@ -119,7 +119,7 @@ $$
 Z = x(t_c) = \frac{v_0^2 \sin(2\alpha)}{g}.
 $$
 
-Dla przyjętych danych liczbowych ($v_0 = 12\,\mathrm{m/s}$, $\alpha = 45^\circ$):
+Dla przyjętych danych liczbowych ($v_0 = 33\,\mathrm{m/s}$, $\alpha = 24^\circ$):
 
 | Wielkość fizyczna | Wzór | Wartość obliczona |
 | :--- | :---: | ---: |
