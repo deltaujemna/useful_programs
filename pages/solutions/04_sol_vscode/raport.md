@@ -127,7 +127,7 @@ Dla przyjętych danych liczbowych ($v_0 = 33\,\mathrm{m/s}$, $\alpha = 24^\circ$
 | Maksymalna wysokość | $h_{\max}$ | $9{,}182\,\mathrm{m}$ |
 | Zasięg rzutu | $Z$ | $82{,}496\,\mathrm{m}$ |
 
-![Składowe prędkości](/files/rzut_ukosny/predkosc_czas.png)
+![Składowe prędkości](files/rzut_ukosny/predkosc_czas.png)
 
 *Rysunek 3. Zmiana składowych prędkości $v_x, v_y$ oraz całkowitej szybkości $v(t)$ w czasie.*
 
@@ -185,7 +185,7 @@ $$
 
 Wprowadzenie oporu powietrza zmienia trajektorię ze symetrycznej paraboli na krzywą asymetryczną, opadającą bardziej stromo w końcowej fazie ruchu.
 
-![Porównanie trajektorii](/files/rzut_ukosny/trajektoria_porownanie.png)
+![Porównanie trajektorii](files/rzut_ukosny/trajektoria_porownanie.png)
 
 *Rysunek 5. Porównanie trajektorii rzutu w próżni oraz z oporem powietrza ($b=0{,}15\,\mathrm{N s/m}$).*
 
