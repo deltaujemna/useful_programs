@@ -129,7 +129,7 @@ Dla przyjętych danych liczbowych ($v_0 = 33\,\mathrm{m/s}$, $\alpha = 24^\circ$
 
 ![Składowe prędkości](files/rzut_ukosny/predkosc_czas.png)
 
-*Rysunek 3. Zmiana składowych prędkości $v_x, v_y$ oraz całkowitej szybkości $v(t)$ w czasie.*
+*Rysunek 3. Zmiana składowych prędkości $v_x$, $v_y$ oraz całkowitej szybkości $v(t)$ w czasie.*
 
 ### 3.2. Zachowanie energii mechanicznej
 
