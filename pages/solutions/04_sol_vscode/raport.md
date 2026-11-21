@@ -123,9 +123,9 @@ Dla przyjętych danych liczbowych ($v_0 = 12\,\mathrm{m/s}$, $\alpha = 45^\circ$
 
 | Wielkość fizyczna | Wzór | Wartość obliczona |
 | :--- | :---: | ---: |
-| Czas lotu | $t_c$ | $1{,}729\,\mathrm{s}$ |
-| Maksymalna wysokość | $h_{\max}$ | $3{,}670\,\mathrm{m}$ |
-| Zasięg rzutu | $Z$ | $14{,}679\,\mathrm{m}$ |
+| Czas lotu | $t_c$ | $2{,}376\,\mathrm{s}$ |
+| Maksymalna wysokość | $h_{\max}$ | $9{,}182\,\mathrm{m}$ |
+| Zasięg rzutu | $Z$ | $82{,}496\,\mathrm{m}$ |
 
 ![Składowe prędkości](/files/rzut_ukosny/predkosc_czas.png)
 
